@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Tutorial from https://www.youtube.com/watch?v=4jvwwMNRWXM
 
-## Getting Started
+# Recreating Amie.so animations with framer motion
 
-First, run the development server:
+**NOTE:** I am NOT affiliated with [Amie](https://amie.so/), but just really like their website, and think rebuilding this with Tailwind and Framer Motion can teach a lot to people. All of the images in `/public/` are owned by Amie, they are only used as teaching material here.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Running this project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Run `yarn` or `npm i` to install the project. Next run `yarn dev` or `npm run dev` to view the project by clicking the link in the terminal.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Design remains copyrighted by Amie, it can only be used for educational purposes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+See the [LICENSE](/LICENSE.md) for more information about reusing this code.
